@@ -9,9 +9,6 @@ Lets create a s3 bucket using terraform on localstack
 
 Run > terraform init
 
-![image](https://github.com/srss-pocs/create-services-using-terraform-on-localstack/assets/145287517/43890db6-b9f2-44a4-b430-9dcf88c41d48)
-
-
 ![image](https://github.com/srss-pocs/create-services-using-terraform-on-localstack/assets/145287517/b2a5b014-736f-45ad-a9e4-9561108d1d2a)
 
 
