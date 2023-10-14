@@ -5,7 +5,7 @@ https://developer.hashicorp.com/terraform/downloads
 
 run terrafrom -version command to check terrafrom installation
 
-Make sure docker service is up & > docker-compose up
+Make sure docker service is up & > docker-compose up [OR docker run --rm -it -p 4566:4566 -p 4571:4571 localstack/localstack]
 
 Lets create a s3 bucket using terraform on localstack
 
